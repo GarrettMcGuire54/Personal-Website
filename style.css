@@ -343,6 +343,7 @@
     box-shadow: none;
     border-color: #fff;
     margin-bottom: 5rem;
+    text-shadow: 0.2rem 0.2rem 1rem #555;
   }
   
   .contact-form {
@@ -357,7 +358,7 @@
     margin: 0.5rem 0;
     background-color: #eef;
     font-size: 1.5rem;
-    border: 0.2rem solid cyan;
+    border: 0.2rem solid black;
     color: #555;
   }
   
@@ -368,7 +369,7 @@
   }
   
   .contact-form .contact-form-btn {
-    background-color: cyan;
+    background-color: black;
     color: #fff;
     text-transform: uppercase;
     letter-spacing: 1rem;
@@ -391,7 +392,7 @@
   .social-media-link {
     margin: 0 2rem;
     padding: 0.7rem;
-    background-color: cyan;
+    background-color: black;
     border-radius: 0.5rem;
     display: inline-block;
   }
